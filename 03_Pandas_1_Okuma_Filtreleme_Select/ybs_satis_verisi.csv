@@ -1,0 +1,301 @@
+siparis_id,musteri_id,sehir,kategori,urun,adet,birim_fiyat,indirim_orani,satis_kanali,odeme_yontemi,siparis_tarihi,teslimat_gun,memnuniyet_puani,iptal_edildi
+100001,1130,Adana,Kozmetik,Parfüm,3,2356.7,0.2,Web,Havale/EFT,2025-03-21,3,3,0
+100002,1474,Kocaeli,Ev-Yaşam,Nevresim,4,11270.01,0.05,Mobil,Kredi Kartı,2025-03-31,3,1,0
+100003,3435,Kocaeli,Market,Çay,4,584.78,0.1,Mobil,Kapıda Ödeme,2025-06-12,1,4,0
+100004,1034,Konya,Elektronik,Powerbank,2,17651.03,0.05,Web,Kapıda Ödeme,2025-02-28,4,4,0
+100005,5911,Ankara,Elektronik,Powerbank,4,14371.14,0.05,Mağaza,Kredi Kartı,2025-08-19,4,5,0
+100006,3062,Konya,Kozmetik,Parfüm,5,1214.94,0.05,Web,Kapıda Ödeme,2025-08-08,2,4,0
+100007,4561,İstanbul,Ev-Yaşam,Tava,1,9294.27,0.15,Mobil,Havale/EFT,2025-05-11,4,5,0
+100008,2570,Bursa,Giyim,Tişört,1,3796.29,0.05,Web,Havale/EFT,2025-02-27,2,5,0
+100009,2484,Antalya,Elektronik,Laptop,3,34354.93,0.05,Mobil,Banka Kartı,2025-04-20,3,4,0
+100010,4314,Bursa,Market,Kahve,5,314.97,0.2,Mobil,Kredi Kartı,2025-04-24,2,5,0
+100011,3038,Ankara,Kozmetik,Şampuan,5,943.25,0.2,Web,Kapıda Ödeme,2025-12-08,3,5,0
+100012,5413,Adana,Kozmetik,Parfüm,1,874.63,0.1,Web,Kapıda Ödeme,2025-06-28,2,3,0
+100013,2291,İzmir,Ev-Yaşam,Tava,2,4130.87,0.1,Mobil,Kapıda Ödeme,2025-05-21,3,2,0
+100014,4474,İstanbul,Giyim,Ayakkabı,5,1816.32,0.0,Mobil,Banka Kartı,2025-05-01,1,3,0
+100015,1197,Bursa,Giyim,Elbise,2,5916.06,0.15,Web,Kapıda Ödeme,2025-02-22,4,4,0
+100016,3911,İstanbul,Market,Kahve,4,314.76,0.2,Mobil,Kapıda Ödeme,2025-12-03,1,4,0
+100017,1623,İstanbul,Kozmetik,Parfüm,2,2526.11,0.1,Web,Kredi Kartı,2025-05-28,3,4,0
+100018,2154,Bursa,Elektronik,Powerbank,1,11262.43,0.15,Mobil,Kapıda Ödeme,2025-08-15,2,3,0
+100019,1098,Konya,Kozmetik,Diş Macunu,1,1954.73,0.1,Mobil,Kapıda Ödeme,2025-12-31,3,1,0
+100020,2527,Ankara,Elektronik,Klavye,2,22109.81,0.1,Web,Kredi Kartı,2025-09-18,1,4,0
+100021,4354,Kocaeli,Market,Kahve,1,334.67,0.1,Web,Havale/EFT,2025-06-07,3,5,0
+100022,2243,Antalya,Market,Çay,1,354.6,0.0,Mobil,Kredi Kartı,2025-04-05,3,5,0
+100023,3300,Konya,Ev-Yaşam,Termos,3,9002.9,0.2,Mobil,Kredi Kartı,2025-12-28,3,5,0
+100024,3901,Kocaeli,Ev-Yaşam,Tava,3,2133.57,0.0,Mobil,Banka Kartı,2025-06-17,3,2,0
+100025,3455,Ankara,Giyim,Ayakkabı,2,2036.92,0.0,Web,Banka Kartı,2025-03-14,2,5,0
+100026,5929,Ankara,Ev-Yaşam,Süpürge,1,7579.39,0.15,Web,Kapıda Ödeme,2025-09-18,1,5,0
+100027,4124,Ankara,Market,Kahve,5,506.58,0.05,Web,Kapıda Ödeme,2025-02-04,2,4,0
+100028,1635,Bursa,Kozmetik,Diş Macunu,5,1415.21,0.2,Mobil,Banka Kartı,2025-04-04,3,5,1
+100029,5729,İstanbul,Giyim,Ayakkabı,3,2717.98,0.05,Web,Kredi Kartı,2025-02-02,3,4,0
+100030,4147,Kocaeli,Elektronik,Telefon,1,29878.78,0.2,Mobil,Kredi Kartı,2025-09-13,3,4,0
+100031,3479,Antalya,Giyim,Ayakkabı,1,2150.0,0.15,Web,Kredi Kartı,2025-02-09,7,3,0
+100032,3816,İstanbul,Ev-Yaşam,Süpürge,5,4854.24,0.05,Web,Kapıda Ödeme,2026-01-05,2,4,0
+100033,4913,Bursa,Ev-Yaşam,Termos,2,434.95,0.1,Web,Kapıda Ödeme,2025-11-12,3,4,0
+100034,2625,Antalya,Market,Süt,5,144.46,0.05,Mobil,Banka Kartı,2025-02-07,1,3,0
+100035,3504,İstanbul,Giyim,Ayakkabı,4,4203.41,0.05,Web,Kredi Kartı,2025-09-10,3,5,0
+100036,1595,İzmir,Market,Kahve,4,235.77,0.2,Mobil,Havale/EFT,2025-04-21,4,2,0
+100037,5946,Antalya,Elektronik,Mouse,3,4949.33,0.15,Mobil,Kredi Kartı,2025-01-27,2,5,0
+100038,3982,Antalya,Giyim,Elbise,3,3674.28,0.15,Mağaza,Kapıda Ödeme,2025-09-26,4,2,0
+100039,2191,İzmir,Giyim,Elbise,5,2202.85,0.05,Mobil,Kredi Kartı,2026-01-12,3,2,0
+100040,1510,Ankara,Giyim,Tişört,3,4281.52,0.2,Mağaza,Banka Kartı,2025-07-30,2,4,0
+100041,5268,Bursa,Elektronik,Klavye,4,17243.55,0.1,Mobil,Banka Kartı,2025-11-03,2,3,0
+100042,4440,Bursa,Ev-Yaşam,Nevresim,2,8922.77,0.2,Mobil,Havale/EFT,2025-11-20,3,5,0
+100043,2250,Konya,Elektronik,Kulaklık,5,43363.4,0.15,Web,Kredi Kartı,2026-01-15,5,4,1
+100044,2353,İstanbul,Market,Süt,2,116.4,0.0,Mağaza,Havale/EFT,2025-10-04,4,4,0
+100045,4775,Bursa,Kozmetik,Diş Macunu,5,889.95,0.15,Web,Kapıda Ödeme,2025-09-17,3,2,1
+100046,1255,Adana,Market,Zeytinyağı,1,182.26,0.2,Web,Kapıda Ödeme,2025-11-17,1,2,1
+100047,5948,Ankara,Ev-Yaşam,Tava,2,11200.81,0.05,Web,Kredi Kartı,2025-08-13,2,5,1
+100048,3000,Konya,Giyim,Tişört,3,5076.4,0.2,Web,Kredi Kartı,2025-02-16,2,2,0
+100049,5146,Konya,Ev-Yaşam,Termos,3,6718.53,0.2,Mobil,Banka Kartı,2025-10-16,2,4,0
+100050,5363,Bursa,Ev-Yaşam,Termos,1,8099.8,0.05,Web,Kapıda Ödeme,2025-06-03,3,4,0
+100051,3122,Bursa,Elektronik,Mouse,5,4434.17,0.1,Mobil,Kapıda Ödeme,2025-06-20,3,5,0
+100052,2358,Kocaeli,Market,Zeytinyağı,4,588.67,0.05,Mobil,Banka Kartı,2025-08-27,1,5,0
+100053,3593,Adana,Kozmetik,Şampuan,2,2598.1,0.2,Mağaza,Banka Kartı,2025-11-10,3,3,0
+100054,1899,Antalya,Ev-Yaşam,Nevresim,3,7006.24,0.1,Mobil,Kredi Kartı,2025-02-20,3,4,0
+100055,5777,İstanbul,Kozmetik,Diş Macunu,3,2633.01,0.1,Mobil,Banka Kartı,2025-09-24,2,5,0
+100056,3261,Konya,Ev-Yaşam,Termos,1,6468.95,0.15,Web,Banka Kartı,2025-04-09,2,3,0
+100057,3125,İstanbul,Market,Çikolata,2,523.61,0.0,Web,Kapıda Ödeme,2025-08-30,2,4,0
+100058,2906,Ankara,Giyim,Elbise,3,1626.76,0.1,Mobil,Banka Kartı,2025-12-16,1,5,0
+100059,1066,Bursa,Elektronik,Klavye,2,25596.45,0.0,Mobil,Banka Kartı,2025-04-11,2,3,0
+100060,2761,Ankara,Elektronik,Klavye,4,24401.24,0.05,Web,Kapıda Ödeme,2025-08-15,1,3,0
+100061,3397,Antalya,Market,Makarna,5,561.54,0.2,Web,Banka Kartı,2025-03-02,3,5,0
+100062,5289,İzmir,Elektronik,Laptop,5,44215.85,0.05,Mobil,Havale/EFT,2025-08-22,5,3,0
+100063,5749,İzmir,Market,Çay,5,466.31,0.05,Web,Havale/EFT,2025-05-22,4,4,0
+100064,4713,Adana,Ev-Yaşam,Lamba,4,3929.23,0.1,Mobil,Banka Kartı,2025-02-11,3,4,0
+100065,5027,Adana,Kozmetik,Parfüm,5,87.92,0.0,Mobil,Kapıda Ödeme,2025-08-29,4,2,0
+100066,4850,Konya,Kozmetik,Şampuan,5,2214.13,0.0,Web,Havale/EFT,2025-04-08,4,4,0
+100067,3136,Konya,Elektronik,Klavye,4,7782.69,0.2,Mobil,Havale/EFT,2025-04-02,3,4,0
+100068,4110,Antalya,Giyim,Ayakkabı,1,4523.51,0.0,Web,Kredi Kartı,2025-04-18,3,2,0
+100069,3204,Konya,Market,Zeytinyağı,3,384.07,0.05,Mobil,Havale/EFT,2025-03-15,3,5,0
+100070,5910,Antalya,Elektronik,Kulaklık,5,35146.45,0.0,Mobil,Banka Kartı,2025-02-05,3,5,0
+100071,2955,Kocaeli,Kozmetik,Parfüm,4,1240.08,0.2,Web,Kredi Kartı,2025-08-09,4,5,0
+100072,3443,İzmir,Kozmetik,Şampuan,3,1089.43,0.1,Mobil,Kapıda Ödeme,2026-01-09,3,4,1
+100073,4177,Kocaeli,Giyim,Elbise,2,3727.01,0.15,Mobil,Kapıda Ödeme,2025-08-28,4,5,0
+100074,4417,Adana,Elektronik,Powerbank,2,3567.01,0.1,Mobil,Kapıda Ödeme,2025-10-19,7,2,0
+100075,1574,Adana,Kozmetik,Şampuan,1,1049.87,0.1,Web,Kredi Kartı,2025-08-27,4,3,0
+100076,5759,Ankara,Kozmetik,Parfüm,3,2775.04,0.05,Mobil,Havale/EFT,2025-07-18,2,4,0
+100077,4432,Konya,Elektronik,Powerbank,5,41210.64,0.0,Mobil,Havale/EFT,2025-11-04,1,4,0
+100078,3079,Konya,Elektronik,Powerbank,4,24310.6,0.0,Web,Kapıda Ödeme,2025-05-13,4,3,0
+100079,4293,Antalya,Ev-Yaşam,Tava,5,5728.16,0.1,Mobil,Banka Kartı,2025-02-16,3,4,0
+100080,2823,İstanbul,Market,Süt,5,63.79,0.1,Mobil,Banka Kartı,2025-06-09,3,5,1
+100081,4675,Kocaeli,Giyim,Elbise,1,3377.58,0.1,Mobil,Havale/EFT,2025-04-18,3,3,0
+100082,3198,Kocaeli,Giyim,Ayakkabı,3,5781.5,0.15,Web,Kredi Kartı,2025-09-24,2,2,0
+100083,5802,Kocaeli,Ev-Yaşam,Lamba,5,10532.16,0.2,Mağaza,Banka Kartı,2025-06-26,3,3,0
+100084,3679,Antalya,Kozmetik,Diş Macunu,5,1275.48,0.0,Web,Kapıda Ödeme,2025-07-02,7,5,0
+100085,3541,Adana,Market,Zeytinyağı,1,301.17,0.0,Mobil,Kapıda Ödeme,2025-05-02,3,3,0
+100086,5683,Ankara,Kozmetik,Şampuan,5,581.3,0.2,Mobil,Banka Kartı,2025-01-30,5,4,0
+100087,4028,Konya,Ev-Yaşam,Nevresim,5,3252.56,0.1,Mobil,Kapıda Ödeme,2025-08-30,3,4,0
+100088,2136,Ankara,Kozmetik,Şampuan,2,565.55,0.1,Mobil,Kredi Kartı,2025-04-01,2,4,0
+100089,5460,Konya,Market,Makarna,2,250.06,0.2,Web,Banka Kartı,2025-07-19,2,4,0
+100090,5226,İstanbul,Market,Çay,2,295.06,0.0,Web,Kredi Kartı,2025-02-20,4,4,0
+100091,4894,Bursa,Giyim,Elbise,4,5811.04,0.05,Web,Kredi Kartı,2025-03-02,7,2,1
+100092,4726,Konya,Elektronik,Powerbank,3,33084.01,0.2,Mobil,Kredi Kartı,2025-10-28,5,3,0
+100093,1628,İstanbul,Market,Çay,5,408.55,0.05,Web,Kredi Kartı,2025-08-26,3,5,0
+100094,2182,Kocaeli,Elektronik,Laptop,2,19268.44,0.2,Web,Banka Kartı,2025-07-16,3,4,0
+100095,1920,Bursa,Market,Süt,5,64.63,0.2,Mobil,Banka Kartı,2025-08-05,1,3,0
+100096,4810,İstanbul,Ev-Yaşam,Nevresim,5,7436.45,0.05,Mağaza,Banka Kartı,2025-02-01,1,3,0
+100097,1920,Bursa,Market,Zeytinyağı,5,464.97,0.2,Mobil,Kapıda Ödeme,2025-02-06,5,5,0
+100098,5494,İstanbul,Kozmetik,Parfüm,1,402.58,0.05,Mobil,Banka Kartı,2025-05-12,2,5,0
+100099,1010,Kocaeli,Elektronik,Kulaklık,4,10212.3,0.05,Web,Kredi Kartı,2025-11-11,3,5,1
+100100,3265,İstanbul,Ev-Yaşam,Nevresim,4,892.04,0.15,Mobil,Banka Kartı,2025-11-25,3,3,0
+100101,2914,Ankara,Elektronik,Kulaklık,3,37266.15,0.2,Web,Havale/EFT,2025-02-14,3,4,0
+100102,2380,Ankara,Giyim,Ayakkabı,2,4221.72,0.1,Mobil,Banka Kartı,2025-11-17,4,1,0
+100103,2418,İstanbul,Giyim,Ayakkabı,3,1746.81,0.2,Mobil,Kredi Kartı,2025-12-14,1,3,0
+100104,5688,Kocaeli,Market,Çay,4,236.16,0.1,Mobil,Banka Kartı,2025-10-15,7,2,0
+100105,3383,Kocaeli,Giyim,Elbise,5,5453.11,0.1,Mobil,Banka Kartı,2025-05-30,5,5,0
+100106,1556,İzmir,Kozmetik,Parfüm,3,548.37,0.2,Mağaza,Kredi Kartı,2025-11-25,1,4,0
+100107,1294,İzmir,Giyim,Tişört,2,903.89,0.1,Web,Havale/EFT,2025-04-17,5,5,0
+100108,4526,Konya,Giyim,Elbise,3,5889.94,0.0,Mobil,Banka Kartı,2025-03-07,3,5,0
+100109,5826,Kocaeli,Giyim,Tişört,2,2149.95,0.15,Web,Kredi Kartı,2025-03-30,7,4,0
+100110,4747,Konya,Elektronik,Powerbank,1,26406.59,0.0,Web,Kapıda Ödeme,2025-02-14,5,5,1
+100111,4553,Bursa,Market,Makarna,5,242.5,0.2,Web,Banka Kartı,2025-02-01,5,3,0
+100112,4155,Bursa,Giyim,Elbise,1,747.83,0.0,Mobil,Havale/EFT,2025-03-24,2,5,0
+100113,5665,İzmir,Market,Makarna,1,578.68,0.15,Web,Havale/EFT,2025-10-17,3,4,0
+100114,1984,Adana,Kozmetik,Şampuan,2,702.27,0.0,Mobil,Kapıda Ödeme,2025-09-18,3,4,0
+100115,1526,Antalya,Elektronik,Klavye,3,38092.85,0.15,Web,Kredi Kartı,2025-01-30,1,5,0
+100116,3433,Konya,Elektronik,Mouse,1,27525.14,0.15,Web,Banka Kartı,2025-06-30,2,4,0
+100117,4496,İstanbul,Market,Çikolata,5,62.02,0.05,Mobil,Havale/EFT,2025-07-18,4,5,1
+100118,5337,İzmir,Market,Zeytinyağı,1,160.39,0.0,Mobil,Havale/EFT,2025-08-20,3,5,0
+100119,2709,Ankara,Kozmetik,Parfüm,1,336.57,0.2,Web,Kredi Kartı,2025-02-23,2,2,0
+100120,3270,Adana,Giyim,Mont,2,390.92,0.15,Web,Havale/EFT,2025-03-03,5,4,0
+100121,1021,Bursa,Elektronik,Telefon,2,28326.06,0.15,Mobil,Havale/EFT,2025-05-27,4,4,0
+100122,4638,Adana,Giyim,Ayakkabı,1,1109.4,0.1,Web,Kapıda Ödeme,2025-10-15,2,5,0
+100123,3971,Kocaeli,Kozmetik,Parfüm,5,2385.92,0.1,Mobil,Banka Kartı,2025-03-24,2,5,1
+100124,5611,İzmir,Giyim,Ayakkabı,5,572.36,0.0,Mobil,Kredi Kartı,2025-11-26,4,5,0
+100125,3382,Konya,Kozmetik,Diş Macunu,4,1554.15,0.05,Mobil,Kapıda Ödeme,2025-12-06,1,4,0
+100126,5889,Konya,Giyim,Pantolon,2,5953.98,0.05,Web,Kapıda Ödeme,2025-12-23,3,5,0
+100127,1013,Konya,Kozmetik,Diş Macunu,2,773.63,0.05,Web,Kredi Kartı,2025-03-31,3,2,0
+100128,5396,Ankara,Elektronik,Powerbank,1,17903.13,0.0,Mobil,Havale/EFT,2025-06-18,2,5,0
+100129,2307,İzmir,Market,Çay,2,280.29,0.15,Web,Kredi Kartı,2025-11-22,3,5,0
+100130,2939,Antalya,Elektronik,Laptop,5,24241.28,0.0,Web,Kapıda Ödeme,2025-11-28,5,4,0
+100131,2229,İstanbul,Giyim,Mont,5,5629.14,0.2,Mobil,Havale/EFT,2025-09-14,7,3,0
+100132,4249,Bursa,Kozmetik,Şampuan,5,1481.3,0.1,Web,Banka Kartı,2025-01-25,7,4,0
+100133,5612,Bursa,Kozmetik,Şampuan,5,499.14,0.05,Web,Havale/EFT,2025-04-07,2,5,0
+100134,5909,Adana,Giyim,Tişört,2,2339.64,0.05,Mobil,Banka Kartı,2025-04-23,3,1,0
+100135,4232,İstanbul,Kozmetik,Parfüm,3,2827.36,0.2,Web,Kredi Kartı,2025-09-24,4,5,0
+100136,4553,Kocaeli,Elektronik,Kulaklık,5,35316.15,0.2,Mobil,Havale/EFT,2025-05-09,3,3,0
+100137,3190,İstanbul,Giyim,Elbise,3,5233.07,0.0,Mobil,Banka Kartı,2025-03-08,2,4,0
+100138,3889,Bursa,Ev-Yaşam,Lamba,5,5450.48,0.0,Web,Havale/EFT,2025-08-11,1,4,0
+100139,4022,İzmir,Giyim,Tişört,5,5200.5,0.05,Mobil,Kredi Kartı,2025-07-17,1,2,0
+100140,1714,Adana,Kozmetik,Diş Macunu,3,2313.46,0.05,Web,Havale/EFT,2025-10-12,2,1,0
+100141,1105,Antalya,Market,Süt,5,223.94,0.05,Web,Kapıda Ödeme,2025-03-25,2,3,0
+100142,4654,Ankara,Kozmetik,Şampuan,2,876.06,0.15,Web,Banka Kartı,2025-11-20,4,3,0
+100143,2300,Antalya,Elektronik,Telefon,2,41339.99,0.15,Mobil,Havale/EFT,2025-07-19,2,4,0
+100144,5145,Ankara,Kozmetik,Parfüm,1,1968.09,0.05,Mağaza,Banka Kartı,2025-06-04,2,3,0
+100145,5768,Bursa,Market,Süt,2,489.53,0.1,Web,Kredi Kartı,2025-09-08,2,3,0
+100146,1769,Konya,Ev-Yaşam,Tava,5,7746.62,0.15,Web,Havale/EFT,2025-04-09,2,4,0
+100147,2125,Ankara,Market,Çikolata,3,276.78,0.2,Web,Kredi Kartı,2025-10-12,2,5,0
+100148,4713,Konya,Giyim,Elbise,4,651.1,0.0,Web,Kredi Kartı,2025-08-29,2,4,0
+100149,3817,Bursa,Kozmetik,Parfüm,3,1949.29,0.05,Web,Kapıda Ödeme,2025-09-29,2,4,1
+100150,3493,Ankara,Elektronik,Laptop,4,3176.33,0.15,Web,Kredi Kartı,2025-02-25,4,3,0
+100151,1363,İstanbul,Elektronik,Powerbank,4,44165.02,0.1,Web,Kredi Kartı,2025-12-28,7,1,0
+100152,4725,Konya,Elektronik,Kulaklık,5,4635.35,0.05,Web,Kapıda Ödeme,2025-11-07,5,5,0
+100153,2689,Adana,Kozmetik,Parfüm,2,1077.69,0.0,Web,Havale/EFT,2025-02-24,3,5,0
+100154,4229,Adana,Kozmetik,Şampuan,3,2375.93,0.15,Mobil,Banka Kartı,2025-11-30,2,4,0
+100155,2985,Kocaeli,Giyim,Ayakkabı,4,4939.6,0.2,Mobil,Havale/EFT,2025-02-01,2,5,0
+100156,3529,Konya,Elektronik,Klavye,1,41562.69,0.0,Mobil,Banka Kartı,2025-09-02,2,5,0
+100157,4036,Bursa,Ev-Yaşam,Nevresim,1,2882.71,0.2,Web,Kapıda Ödeme,2025-08-12,3,5,0
+100158,4850,Konya,Kozmetik,Krem,5,131.65,0.05,Web,Havale/EFT,2025-09-18,3,3,0
+100159,1608,Adana,Giyim,Elbise,1,2667.47,0.0,Mobil,Kredi Kartı,2025-03-16,2,3,0
+100160,1767,Adana,Kozmetik,Diş Macunu,1,759.32,0.15,Mobil,Kapıda Ödeme,2025-05-15,5,5,0
+100161,3708,Adana,Ev-Yaşam,Lamba,3,5039.86,0.2,Web,Kredi Kartı,2025-06-14,3,4,0
+100162,4042,Kocaeli,Giyim,Mont,5,1408.93,0.2,Mağaza,Kredi Kartı,2025-11-24,5,5,0
+100163,4804,İzmir,Elektronik,Powerbank,5,38073.89,0.2,Mobil,Kapıda Ödeme,2025-07-21,2,4,0
+100164,2120,Konya,Kozmetik,Parfüm,2,2372.25,0.2,Mobil,Kapıda Ödeme,2025-03-13,2,4,0
+100165,4926,Ankara,Giyim,Mont,4,4719.85,0.15,Web,Banka Kartı,2025-09-13,3,3,0
+100166,3711,Antalya,Ev-Yaşam,Lamba,4,6205.2,0.2,Web,Kapıda Ödeme,2025-02-10,4,2,0
+100167,1772,Bursa,Elektronik,Klavye,5,17747.99,0.15,Mağaza,Havale/EFT,2025-05-31,4,4,0
+100168,5285,İstanbul,Giyim,Pantolon,1,5859.55,0.05,Mobil,Kapıda Ödeme,2025-01-27,4,4,0
+100169,1521,Antalya,Giyim,Mont,4,1863.01,0.05,Mağaza,Kredi Kartı,2025-08-31,3,4,0
+100170,4359,Adana,Elektronik,Telefon,1,17061.43,0.1,Mobil,Banka Kartı,2025-08-12,7,3,0
+100171,1646,İstanbul,Market,Zeytinyağı,5,185.83,0.0,Web,Havale/EFT,2025-04-28,4,4,0
+100172,2486,İzmir,Kozmetik,Diş Macunu,3,866.45,0.15,Web,Banka Kartı,2025-02-08,4,2,1
+100173,2304,Antalya,Market,Süt,3,459.75,0.0,Web,Havale/EFT,2025-07-28,2,2,0
+100174,2428,Ankara,Ev-Yaşam,Nevresim,1,8931.54,0.1,Web,Kapıda Ödeme,2026-01-21,5,4,0
+100175,4489,Ankara,Market,Makarna,1,237.65,0.0,Mobil,Banka Kartı,2025-08-14,5,5,0
+100176,2828,Bursa,Ev-Yaşam,Tava,3,9104.42,0.1,Web,Kapıda Ödeme,2026-01-22,3,5,0
+100177,3947,Ankara,Ev-Yaşam,Termos,4,2274.07,0.2,Mobil,Havale/EFT,2025-02-26,3,5,0
+100178,3974,İzmir,Giyim,Mont,4,4976.54,0.0,Web,Havale/EFT,2025-09-13,2,5,0
+100179,2019,İzmir,Kozmetik,Diş Macunu,5,510.56,0.0,Web,Banka Kartı,2025-07-01,1,5,0
+100180,1499,İstanbul,Ev-Yaşam,Tava,4,6014.46,0.1,Mobil,Havale/EFT,2025-10-01,2,4,0
+100181,2449,Ankara,Ev-Yaşam,Nevresim,3,431.22,0.0,Web,Banka Kartı,2025-08-25,3,3,1
+100182,3978,Ankara,Market,Zeytinyağı,3,238.61,0.2,Mobil,Kredi Kartı,2025-07-18,3,2,0
+100183,1875,Bursa,Elektronik,Kulaklık,1,7571.41,0.15,Mobil,Kredi Kartı,2025-03-12,4,5,0
+100184,2719,Adana,Giyim,Pantolon,3,1762.33,0.05,Web,Banka Kartı,2025-05-03,5,3,0
+100185,2171,Ankara,Market,Süt,2,345.96,0.2,Mobil,Kredi Kartı,2025-08-06,1,3,0
+100186,2938,Ankara,Ev-Yaşam,Nevresim,4,9478.03,0.0,Web,Kredi Kartı,2025-07-23,4,3,0
+100187,5688,Antalya,Market,Kahve,4,222.71,0.0,Web,Kredi Kartı,2025-02-01,2,5,0
+100188,5948,Ankara,Ev-Yaşam,Termos,4,8707.03,0.0,Mobil,Kredi Kartı,2025-11-08,1,4,0
+100189,5666,Konya,Ev-Yaşam,Nevresim,1,8067.99,0.05,Mobil,Havale/EFT,2025-12-04,3,2,0
+100190,2749,Kocaeli,Giyim,Ayakkabı,3,4749.73,0.2,Mobil,Havale/EFT,2025-03-25,4,1,0
+100191,2577,Konya,Kozmetik,Diş Macunu,3,2844.18,0.05,Web,Kredi Kartı,2025-10-25,1,4,0
+100192,3555,Konya,Kozmetik,Krem,4,1398.95,0.1,Web,Havale/EFT,2025-06-11,2,3,0
+100193,3822,Bursa,Kozmetik,Parfüm,5,1932.98,0.0,Mobil,Kapıda Ödeme,2025-06-17,3,4,0
+100194,3307,İzmir,Market,Çikolata,3,180.6,0.0,Web,Havale/EFT,2025-08-30,5,4,0
+100195,2529,Bursa,Market,Kahve,3,313.02,0.0,Web,Havale/EFT,2025-06-25,4,3,1
+100196,1264,Antalya,Market,Makarna,1,73.96,0.15,Web,Banka Kartı,2025-10-13,2,5,0
+100197,1587,Ankara,Kozmetik,Şampuan,3,2297.98,0.0,Mobil,Havale/EFT,2025-07-14,2,3,0
+100198,2098,Ankara,Kozmetik,Şampuan,5,409.79,0.05,Web,Kredi Kartı,2025-03-01,7,5,0
+100199,2070,İstanbul,Elektronik,Mouse,5,36375.72,0.1,Mobil,Kapıda Ödeme,2025-09-12,1,3,0
+100200,1948,Bursa,Elektronik,Powerbank,1,37748.33,0.1,Web,Kredi Kartı,2025-10-04,2,2,0
+100201,2466,Bursa,Kozmetik,Şampuan,4,759.67,0.0,Mobil,Kredi Kartı,2025-11-07,4,5,0
+100202,5249,Kocaeli,Market,Çay,4,241.33,0.1,Web,Havale/EFT,2025-06-23,3,1,0
+100203,5728,Konya,Elektronik,Laptop,3,37258.74,0.1,Mağaza,Kapıda Ödeme,2025-11-13,3,4,0
+100204,5916,Adana,Kozmetik,Krem,4,408.73,0.2,Web,Kapıda Ödeme,2025-08-09,1,4,0
+100205,5790,İzmir,Market,Kahve,1,47.92,0.15,Mobil,Banka Kartı,2025-12-10,3,5,0
+100206,3044,Kocaeli,Ev-Yaşam,Tava,4,7043.75,0.05,Web,Kredi Kartı,2025-08-21,5,4,0
+100207,1526,İstanbul,Elektronik,Klavye,4,39150.54,0.05,Web,Kredi Kartı,2025-12-10,4,2,0
+100208,1771,Ankara,Elektronik,Laptop,4,20230.41,0.2,Mobil,Kapıda Ödeme,2025-09-11,3,4,0
+100209,2936,İzmir,Kozmetik,Parfüm,4,2855.55,0.05,Mobil,Kredi Kartı,2025-07-15,3,2,0
+100210,2455,Konya,Ev-Yaşam,Süpürge,2,10899.68,0.1,Mobil,Kredi Kartı,2025-05-05,3,4,0
+100211,4828,Kocaeli,Ev-Yaşam,Süpürge,1,6256.88,0.0,Mobil,Banka Kartı,2025-01-26,5,3,0
+100212,1182,Ankara,Elektronik,Mouse,3,2475.26,0.0,Web,Kredi Kartı,2025-06-17,5,4,0
+100213,4004,Kocaeli,Elektronik,Klavye,3,2495.98,0.1,Web,Banka Kartı,2025-03-12,2,5,0
+100214,4052,Bursa,Ev-Yaşam,Termos,5,3795.35,0.2,Mobil,Kapıda Ödeme,2025-10-13,1,4,0
+100215,1331,Ankara,Elektronik,Powerbank,2,5594.7,0.0,Web,Banka Kartı,2025-07-09,3,4,0
+100216,1770,Adana,Giyim,Ayakkabı,1,5659.1,0.2,Mobil,Banka Kartı,2025-09-28,3,4,0
+100217,2998,İzmir,Kozmetik,Şampuan,5,2715.16,0.1,Mobil,Kapıda Ödeme,2025-08-06,4,4,0
+100218,4500,Antalya,Giyim,Elbise,1,1413.9,0.0,Web,Kredi Kartı,2025-10-17,2,5,0
+100219,3041,Konya,Elektronik,Klavye,2,26767.71,0.15,Mobil,Havale/EFT,2025-11-11,3,5,0
+100220,4273,Konya,Market,Kahve,4,247.93,0.05,Mobil,Kredi Kartı,2025-03-25,1,5,1
+100221,2463,Bursa,Kozmetik,Şampuan,3,1074.56,0.1,Web,Kredi Kartı,2025-06-22,5,4,0
+100222,5458,İstanbul,Kozmetik,Şampuan,4,568.69,0.05,Mağaza,Kapıda Ödeme,2025-07-20,3,2,0
+100223,4158,İzmir,Market,Çay,2,201.66,0.2,Web,Banka Kartı,2025-07-10,5,4,0
+100224,4236,Bursa,Kozmetik,Şampuan,1,2953.32,0.2,Web,Banka Kartı,2025-09-02,2,3,0
+100225,1340,Antalya,Elektronik,Kulaklık,2,7990.99,0.2,Web,Havale/EFT,2025-11-24,5,5,0
+100226,4170,Bursa,Kozmetik,Parfüm,3,1708.51,0.1,Web,Havale/EFT,2025-03-25,3,4,0
+100227,3046,Kocaeli,Kozmetik,Şampuan,1,2394.16,0.1,Web,Kredi Kartı,2025-04-07,5,5,0
+100228,1557,Ankara,Market,Çikolata,3,225.01,0.15,Mobil,Banka Kartı,2025-02-06,1,5,0
+100229,2610,Konya,Giyim,Pantolon,1,5702.31,0.05,Mobil,Kapıda Ödeme,2026-01-17,3,3,0
+100230,4822,Kocaeli,Elektronik,Mouse,3,23251.76,0.0,Mobil,Kredi Kartı,2025-06-05,7,4,0
+100231,3490,Antalya,Kozmetik,Krem,3,665.39,0.0,Web,Kredi Kartı,2025-02-14,5,5,0
+100232,1276,Adana,Ev-Yaşam,Termos,5,11125.43,0.05,Web,Kredi Kartı,2025-07-17,5,4,0
+100233,3694,İstanbul,Kozmetik,Şampuan,3,695.26,0.0,Mağaza,Havale/EFT,2025-11-09,4,5,0
+100234,3241,Bursa,Market,Kahve,1,387.09,0.2,Mobil,Kapıda Ödeme,2025-01-26,4,5,0
+100235,3130,Konya,Elektronik,Telefon,4,18616.24,0.1,Mobil,Havale/EFT,2025-05-31,3,4,0
+100236,3555,Kocaeli,Market,Zeytinyağı,2,64.58,0.05,Mobil,Kapıda Ödeme,2025-11-09,1,5,0
+100237,2304,Kocaeli,Giyim,Ayakkabı,3,278.86,0.2,Mobil,Kredi Kartı,2025-11-27,7,4,0
+100238,3307,Ankara,Elektronik,Mouse,2,37053.72,0.15,Web,Banka Kartı,2025-09-13,4,5,0
+100239,2264,Adana,Ev-Yaşam,Lamba,2,4889.17,0.05,Mobil,Banka Kartı,2025-03-13,2,4,0
+100240,1667,Ankara,Giyim,Elbise,2,1765.59,0.0,Mobil,Banka Kartı,2025-02-15,2,5,0
+100241,3671,İstanbul,Market,Kahve,3,176.83,0.1,Mobil,Kapıda Ödeme,2025-12-06,5,4,0
+100242,4988,Antalya,Kozmetik,Krem,1,2086.1,0.05,Mobil,Kapıda Ödeme,2025-08-18,4,1,0
+100243,2316,Antalya,Market,Çikolata,1,181.49,0.1,Mağaza,Havale/EFT,2026-01-06,2,4,0
+100244,3257,Antalya,Giyim,Tişört,4,5215.05,0.1,Mobil,Banka Kartı,2025-07-10,4,1,0
+100245,1161,Bursa,Ev-Yaşam,Termos,2,2638.49,0.0,Mobil,Banka Kartı,2025-12-07,2,4,0
+100246,2548,Ankara,Elektronik,Powerbank,3,14545.42,0.15,Mobil,Kapıda Ödeme,2025-02-12,2,5,0
+100247,1674,Konya,Elektronik,Kulaklık,2,24699.35,0.2,Web,Kredi Kartı,2025-10-02,2,1,0
+100248,5214,Adana,Elektronik,Laptop,1,40819.93,0.15,Mobil,Havale/EFT,2025-01-27,1,4,0
+100249,4462,Adana,Kozmetik,Diş Macunu,1,1602.18,0.05,Web,Banka Kartı,2025-12-02,4,5,0
+100250,5402,İstanbul,Ev-Yaşam,Tava,2,2772.37,0.0,Mobil,Kapıda Ödeme,2025-06-08,4,4,0
+100251,4276,Kocaeli,Elektronik,Laptop,1,27473.52,0.2,Mobil,Kapıda Ödeme,2025-06-18,4,5,0
+100252,1232,Bursa,Kozmetik,Krem,2,1780.05,0.0,Mağaza,Kapıda Ödeme,2025-04-21,3,5,0
+100253,4483,Ankara,Elektronik,Laptop,4,28078.19,0.0,Web,Banka Kartı,2025-09-08,2,5,0
+100254,3295,İstanbul,Market,Makarna,1,569.49,0.15,Mobil,Havale/EFT,2025-08-08,1,2,0
+100255,3349,Konya,Elektronik,Telefon,3,34368.43,0.2,Web,Banka Kartı,2026-01-05,2,5,0
+100256,4563,Konya,Ev-Yaşam,Lamba,5,5838.24,0.2,Web,Kredi Kartı,2025-02-11,7,4,0
+100257,1869,İzmir,Elektronik,Powerbank,4,44769.46,0.1,Web,Kredi Kartı,2026-01-17,3,5,0
+100258,1519,Konya,Giyim,Mont,4,5001.94,0.2,Mobil,Banka Kartı,2025-12-21,2,5,1
+100259,5232,Kocaeli,Ev-Yaşam,Nevresim,4,3058.4,0.0,Web,Kredi Kartı,2025-07-10,3,5,0
+100260,1943,Bursa,Ev-Yaşam,Nevresim,5,4598.59,0.15,Web,Havale/EFT,2025-04-17,5,3,0
+100261,3176,Antalya,Market,Zeytinyağı,3,36.92,0.1,Web,Kredi Kartı,2025-12-16,2,4,0
+100262,5780,Adana,Elektronik,Klavye,1,28777.24,0.15,Web,Havale/EFT,2025-10-26,3,3,0
+100263,4786,Bursa,Kozmetik,Parfüm,5,1127.05,0.15,Web,Kredi Kartı,2025-11-29,7,2,0
+100264,3635,Antalya,Elektronik,Kulaklık,2,43056.24,0.05,Mağaza,Kredi Kartı,2025-09-29,3,4,0
+100265,4180,İzmir,Giyim,Ayakkabı,5,2215.34,0.05,Mobil,Kredi Kartı,2025-12-15,5,5,0
+100266,4354,Kocaeli,Ev-Yaşam,Tava,3,7174.37,0.15,Web,Havale/EFT,2025-09-13,7,4,0
+100267,1580,Ankara,Ev-Yaşam,Süpürge,5,9280.94,0.05,Mobil,Banka Kartı,2025-11-21,3,3,0
+100268,1341,İstanbul,Ev-Yaşam,Tava,5,5068.8,0.2,Web,Kapıda Ödeme,2025-10-14,2,3,0
+100269,1205,Bursa,Kozmetik,Diş Macunu,3,2016.1,0.0,Mobil,Havale/EFT,2025-11-29,5,5,0
+100270,5086,Kocaeli,Elektronik,Mouse,3,44979.7,0.15,Mobil,Kapıda Ödeme,2026-01-18,3,2,0
+100271,1152,Kocaeli,Giyim,Mont,3,1723.76,0.0,Web,Kapıda Ödeme,2025-05-02,2,4,0
+100272,2914,Antalya,Market,Çikolata,1,318.04,0.0,Mağaza,Kredi Kartı,2025-03-27,5,4,0
+100273,2538,Adana,Elektronik,Telefon,5,38845.25,0.0,Web,Kredi Kartı,2025-02-04,2,3,1
+100274,5946,Bursa,Elektronik,Kulaklık,5,42645.53,0.0,Web,Banka Kartı,2025-05-17,4,5,0
+100275,3386,İzmir,Market,Süt,2,377.23,0.05,Mobil,Kapıda Ödeme,2025-07-02,3,5,0
+100276,4731,Antalya,Ev-Yaşam,Tava,3,5849.3,0.2,Mobil,Banka Kartı,2026-01-09,2,2,0
+100277,5690,Adana,Kozmetik,Diş Macunu,2,2624.53,0.1,Web,Kapıda Ödeme,2025-07-26,3,4,0
+100278,1887,Bursa,Market,Çay,4,128.41,0.15,Web,Havale/EFT,2025-05-08,3,5,0
+100279,4765,Konya,Market,Kahve,2,271.0,0.1,Web,Havale/EFT,2025-09-28,2,5,0
+100280,1517,Antalya,Market,Zeytinyağı,4,181.15,0.05,Mağaza,Kredi Kartı,2026-01-02,1,4,0
+100281,1207,Bursa,Giyim,Elbise,1,4466.63,0.05,Web,Kredi Kartı,2025-08-24,2,3,0
+100282,3195,Kocaeli,Giyim,Pantolon,2,4185.21,0.05,Web,Havale/EFT,2025-09-01,7,2,0
+100283,5840,Bursa,Kozmetik,Krem,3,1973.63,0.2,Web,Havale/EFT,2025-01-29,3,4,0
+100284,3964,İzmir,Market,Süt,4,21.17,0.15,Web,Banka Kartı,2026-01-04,3,3,0
+100285,4491,Bursa,Market,Zeytinyağı,2,236.66,0.2,Web,Kredi Kartı,2025-06-21,7,4,0
+100286,5462,Konya,Elektronik,Klavye,2,33403.67,0.0,Web,Havale/EFT,2025-07-24,1,5,0
+100287,3086,İzmir,Kozmetik,Parfüm,1,1360.08,0.1,Mobil,Kredi Kartı,2025-08-27,4,5,0
+100288,4901,Adana,Elektronik,Klavye,4,1111.68,0.0,Web,Kredi Kartı,2025-04-12,7,4,0
+100289,2993,İzmir,Giyim,Tişört,2,2327.37,0.05,Mobil,Havale/EFT,2025-12-13,7,4,0
+100290,3596,Konya,Elektronik,Laptop,3,34798.04,0.0,Mobil,Banka Kartı,2025-12-26,2,5,0
+100291,2358,Kocaeli,Elektronik,Telefon,3,20718.37,0.2,Mobil,Havale/EFT,2025-12-08,3,4,0
+100292,1822,Ankara,Kozmetik,Şampuan,3,1828.63,0.2,Web,Kapıda Ödeme,2025-05-13,3,1,0
+100293,1802,Konya,Market,Zeytinyağı,2,257.09,0.2,Mobil,Kredi Kartı,2025-03-23,7,5,0
+100294,3591,İstanbul,Kozmetik,Parfüm,4,2779.72,0.1,Web,Havale/EFT,2025-07-30,4,2,0
+100295,1661,Konya,Ev-Yaşam,Süpürge,2,4557.42,0.05,Web,Kredi Kartı,2026-01-02,7,2,0
+100296,4670,Antalya,Elektronik,Mouse,2,39854.76,0.15,Web,Havale/EFT,2025-12-03,1,3,0
+100297,5733,Adana,Ev-Yaşam,Süpürge,5,2083.58,0.2,Mobil,Banka Kartı,2025-10-13,2,4,0
+100298,1146,İzmir,Market,Çay,2,225.48,0.15,Mobil,Banka Kartı,2025-08-24,3,3,0
+100299,5236,Kocaeli,Kozmetik,Diş Macunu,3,1706.09,0.0,Mobil,Havale/EFT,2025-06-29,3,5,0
+100300,5400,Antalya,Elektronik,Telefon,5,31499.91,0.2,Web,Kredi Kartı,2025-03-07,7,4,0
